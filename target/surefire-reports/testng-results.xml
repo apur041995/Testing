@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-12-09T15:51:56Z" name="Suite" finished-at="2020-12-09T15:53:12Z" duration-ms="76081">
+    <groups>
+    </groups>
+    <test started-at="2020-12-09T15:51:56Z" name="Test" finished-at="2020-12-09T15:53:12Z" duration-ms="76081">
+      <class name="Academy.LandingPageTest">
+        <test-method is-config="true" signature="BeforeTestM()[pri:0, instance:Academy.LandingPageTest@7a8fa663]" started-at="2020-12-09T15:51:56Z" name="BeforeTestM" finished-at="2020-12-09T15:52:46Z" duration-ms="50578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestM -->
+        <test-method signature="FirstTest()[pri:0, instance:Academy.LandingPageTest@7a8fa663]" started-at="2020-12-09T15:52:46Z" name="FirstTest" finished-at="2020-12-09T15:53:02Z" duration-ms="15741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstTest -->
+        <test-method is-config="true" signature="AfterTest()[pri:0, instance:Academy.LandingPageTest@7a8fa663]" started-at="2020-12-09T15:53:02Z" name="AfterTest" finished-at="2020-12-09T15:53:12Z" duration-ms="9709" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- Academy.LandingPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

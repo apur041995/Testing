@@ -1,0 +1,8 @@
+10:46:50.529 [main] INFO  resources.BaseClass - Driver initialised
+10:52:51.722 [main] INFO  resources.BaseClass - Driver initialised
+10:54:25.865 [main] INFO  resources.BaseClass - Driver closed
+11:02:10.716 [main] INFO  resources.BaseClass - Driver initialised
+11:03:25.064 [main] INFO  resources.BaseClass - Driver closed
+14:49:39.580 [main] INFO  resources.BaseClass - Driver initialised
+14:49:55.829 [main] INFO  resources.BaseClass - Clicked on Practice Button
+14:49:56.133 [main] INFO  resources.BaseClass - Clicked on Checkbox Button
